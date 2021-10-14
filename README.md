@@ -1,2 +1,2 @@
 # ChatDemo
-Chat demo private, group and public
+Chat demo private, group and public.
